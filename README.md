@@ -19,5 +19,4 @@ the corresponding property file can be associated.
 
 ## USE
 This repository only contains the property files. They have to be embedded into the QuestaFormal tool.
-We ran both QuestaCDCFormal 2021 and QuestaCDCFormal 2022 on Ubuntu 20.4. The tool is not freely available.
-https://eda.sw.siemens.com/en-US/ic/questa/formal-verification/property-checking/
+We ran both QuestaCDCFormal 2021 and QuestaCDCFormal 2022 on Ubuntu 20.4. The tool can be found at https://eda.sw.siemens.com/en-US/ic/questa/formal-verification/property-checking/.
